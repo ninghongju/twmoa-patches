@@ -1,0 +1,3 @@
+DLL\nampower.dll
+DLL\SuperWoWhook.dll
+DLL\UnitXP_SP3.dll
